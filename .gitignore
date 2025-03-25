@@ -1,6 +1,3 @@
-HEAD
-AppData/
-.log
+*.log
 node_modules/
 *.env
-6728509 (added .gitignore and README.md files)

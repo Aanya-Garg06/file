@@ -1,16 +1,31 @@
-#my github practical
+**TravelMania**
 
-#description
-this practical demonstrates the use of .gitgnore and README.md files in a Git repository
+**TravelMania** is a responsive travel website designed to help users explore top destinations, browse curated travel itineraries, and access hotel and flight booking options through affiliate links. It offers a visually rich and intuitive interface, built entirely with front-end technologies.
 
-#installation steps
-1. clone the repository uing git clone <repository_URL>
-2. navigate to the project directory.
-3. make necessary changes in the project files uing a code editor or git bash.
-4. commit the changes with a meaningful message.
-5. push the changes to the remote repository.
+**Project Overview**
 
-#usage
-1. run the project using the appropriate command.
-2. ensure that all sensitive or unnecessary files are ignored by adding them to .gitignore
+TravelMania serves as a one-stop platform for travel enthusiasts. The landing page highlights key offerings with smooth navigation and animations. Users can explore beautiful destinations, view planned itineraries, and proceed to hotel and flight bookings seamlessly. The website focuses on providing inspiration and convenience to travelers through an elegant and mobile-friendly design.
+
+**Key Features**
+
+- Beautifully designed landing page with hero section and call-to-action
+- Popular destinations displayed in interactive cards
+- Integrated hotel and flight booking links via TravelPayouts
+- Pre-designed itinerary suggestions
+- Fully responsive across devices (desktop, tablet, mobile)
+- Smooth scrolling and scroll-triggered animations
+- Built using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS
+
+**Tech Stack**
+
+- HTML
+- CSS 
+- JavaScript  
+- Bootstrap
+
+**Prerequisites**
+
+- A modern web browser (e.g., Chrome, Firefox, Edge, Safari)
+- No backend or installation required
+
 
